@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">StudioAPK</string>
+    <string name="subtitle_forge">تبدیل پروژه‌های سه‌بعدی و بازی‌های AI Studio به APK</string>
+    <string name="nav_forge">ساخت APK</string>
+    <string name="nav_builds">خروجی‌ها</string>
+    <string name="nav_signing">امضا و کلید</string>
+    <string name="btn_pick_zip">انتخاب فایل ZIP پروژه</string>
+    <string name="btn_load_sample">تست با بازی سه‌بعدی نمونه</string>
+    <string name="btn_build_apk">ساخت و امضای فایل APK</string>
+    <string name="btn_preview_3d">پیش‌نمایش زنده WebGL</string>
+    <string name="btn_save_apk">ذخیره در حافظه گوشی</string>
+    <string name="btn_share_apk">اشتراک‌گذاری APK</string>
+    <string name="label_app_name">نام برنامه</string>
+    <string name="label_package_name">شناسه پکیج (Package ID)</string>
+    <string name="label_version_name">نام نسخه</string>
+    <string name="label_version_code">کد نسخه</string>
+    <string name="label_orientation">جهت نمایش</string>
+    <string name="label_fullscreen">تمام‌صفحه (Immersive)</string>
+    <string name="label_keep_screen_on">روشن ماندن صفحه در بازی</string>
+    <string name="label_tsx_bridge">پشتیبانی خودکار از TSX / ESM</string>
+    <string name="empty_builds_title">هنوز فایل APK ساخته نشده است</string>
+    <string name="empty_builds_desc">یک فایل ZIP از خروجی Google AI Studio انتخاب کنید تا تحلیل، پیش‌نمایش و به APK امضاشده تبدیل شود.</string>
+</resources>

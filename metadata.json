@@ -1,0 +1,6 @@
+{
+  "name": "StudioAPK",
+  "description": "Convert Google AI Studio 3D and game ZIP exports into signed, installable Android APK packages with live WebGL preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
